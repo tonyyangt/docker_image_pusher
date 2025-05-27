@@ -1,5 +1,5 @@
 nginx
 xwiki
-centos8
-centos7
-rhel7
+centos8:latest
+centos7:latest
+rhel7:latest
