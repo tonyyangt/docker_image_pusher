@@ -2,3 +2,4 @@ nginx
 xwiki
 centos:8
 centos:7
+rhel:7
