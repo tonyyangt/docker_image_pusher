@@ -1,3 +1,3 @@
 nginx
 xwiki
-centos8:latest
+centos:8
