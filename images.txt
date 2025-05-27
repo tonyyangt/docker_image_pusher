@@ -1,3 +1,4 @@
 nginx
 xwiki
 centos:8
+centos:7
