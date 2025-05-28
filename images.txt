@@ -1,5 +1,2 @@
-nginx
-xwiki
 centos7
-centos8
 rhel7
