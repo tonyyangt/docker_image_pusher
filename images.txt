@@ -1,2 +1,3 @@
-centos7
-rhel7
+centos7:2020
+centos8:2011
+rhel7:2009
