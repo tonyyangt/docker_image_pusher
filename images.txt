@@ -1,7 +1,7 @@
 ## 操作系统级镜像
 
 #0.画图
-excalidraw:latest
+excalidraw/excalidraw:latest
 
 #1.通用发行版
 ubuntu:22.04
