@@ -14,7 +14,7 @@ alpine:latest
 #兼容RHEL生态，适合传统企业应用
 centos:7
 centos:8
-rhel:7
+centos:7.9.2009
 
 #CentOS替代方案，提供长期支持（LTS）
 rockylinux:9
