@@ -54,8 +54,7 @@ traefik:latest
 #3.开发与运维工具
 #​CI/CD工具
 #自动化构建/测试/部署流水线
-##jenkins not work
-jenkins:lts
+jenkins/jenkins:lts
 
 #一体化DevOps平台（代码托管+CI）
 gitlab
