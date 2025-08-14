@@ -72,6 +72,8 @@ kibana:8
 #编程语言环境
 #精简Python环境，适合API服务
 python:3.11-slim
+python:3.10
+python:3.11
 
 #轻量Node.js运行时，前端/后端开发通用
 node:20-alpine
