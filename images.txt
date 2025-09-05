@@ -12,6 +12,7 @@ excalidraw/excalidraw:latest
 #1.通用发行版
 ubuntu:22.04
 debian:stable
+rockylinux:8.10
 
 #轻量级（仅5MB），基于musl libc，适合资源敏感场景（如微服务）
 alpine:latest
